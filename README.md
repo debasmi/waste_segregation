@@ -1,3 +1,3 @@
 # waste_segregation
 
-Dataset used : https://github.com/debasmi/TrashBox
+Dataset used : https://github.com/nikhilvenkatkumsetty/TrashBox
